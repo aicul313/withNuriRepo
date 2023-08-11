@@ -8,4 +8,4 @@
 4. GitHub Issue 제대로 사용하기
 
 ## CheckList
-- [ ] 테스트 저장소 생성
+- [x] 테스트 저장소 생성
